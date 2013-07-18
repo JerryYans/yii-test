@@ -1,0 +1,45 @@
+.yii-debug-toolbar-block {
+	float: left;
+	margin: 0;
+	border-right: 1px solid #e4e4e4;
+	padding: 4px 8px;
+	line-height: 32px;
+}
+
+.yii-debug-toolbar-block .label {
+	font-weight: normal;
+}
+
+.yii-debug-toolbar-block a {
+	text-decoration: none;
+	color: black;
+}
+
+.yii-debug-toolbar-block span {
+}
+
+.yii-debug-toolbar-block img {
+	vertical-align: middle;
+}
+
+.yii-debug-toolbar-block.title {
+	display: block;
+	float: left;
+	padding: 4px 8px 4px 20px;
+	margin-left: -20px;
+	font-size: 20px;
+	font-weight: 200;
+	color: #777777;
+	text-shadow: 0 1px 0 #ffffff;
+}
+
+span.indent {
+	color: #ccc;
+}
+
+ul.trace {
+	font-size: 12px;
+	color: #666;
+	margin: 2px 0 0 20px;
+}
+
